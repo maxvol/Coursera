@@ -28,10 +28,8 @@ Coursera
   * [Bayesian Statistics: Techniques and Models](https://www.coursera.org/account/accomplishments/certificate/ANSRBJXY7JWQ)
 * The State University of New York
   * [Practical Time Series Analysis](https://www.coursera.org/account/accomplishments/certificate/WGDS3HUXKKL9)
-<!--
 * Imperial College London  
   * TensorFlow 2 for Deep Learning
-    * Getting started with TensorFlow 2
-    * Customising your models with TensorFlow 2
-    * Probabilistic Deep Learning with TensorFlow 2
--->
+    * [Getting started with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/XXUTHGC6538B)
+<!--    * Customising your models with TensorFlow 2-->
+<!--    * Probabilistic Deep Learning with TensorFlow 2-->
