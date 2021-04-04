@@ -31,5 +31,5 @@ Coursera
 * Imperial College London  
   * TensorFlow 2 for Deep Learning
     * [Getting started with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/XXUTHGC6538B)
-<!--    * Customising your models with TensorFlow 2-->
+    * Customising your models with TensorFlow 2
     * [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/L5M9C9BLY85N)
