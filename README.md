@@ -29,7 +29,7 @@ Coursera
 * The State University of New York
   * [Practical Time Series Analysis](https://www.coursera.org/account/accomplishments/certificate/WGDS3HUXKKL9)
 * Imperial College London  
-  * TensorFlow 2 for Deep Learning
+  * [TensorFlow 2 for Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/R4U5F8H4K69A)
     * [Getting started with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/XXUTHGC6538B)
-    * Customising your models with TensorFlow 2
+    * [Customising your models with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/A6WA8Z6F77RX)
     * [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/L5M9C9BLY85N)
