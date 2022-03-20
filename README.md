@@ -38,4 +38,5 @@ Coursera
 * Google Cloud
   * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)  
 * Coursera
-  * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
+  * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
+    * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
