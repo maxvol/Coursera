@@ -36,7 +36,7 @@ Coursera
 * University of Pennsylvania
   * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/account/accomplishments/certificate/6TN35XH65KSB)
 * Google Cloud
-  * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)  
-* Coursera
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
-    * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
+    * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)  
+* Coursera
+  * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
