@@ -40,6 +40,7 @@ Coursera
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)  
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
+  * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
 * Digital Marketing Institute
   * Digital Marketing Strategy and Planning Specialization
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
