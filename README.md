@@ -38,6 +38,8 @@ Coursera
 * Google Cloud
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)  
+* The University of Tokyo
+  * [Welcome to Game Theory](https://www.coursera.org/account/accomplishments/certificate/4F89NWYRLX7M)
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
