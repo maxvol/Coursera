@@ -42,6 +42,8 @@ Coursera
   * [Welcome to Game Theory](https://www.coursera.org/account/accomplishments/certificate/4F89NWYRLX7M)
 * Georgia Institute of Technology
   * [Games without Chance: Combinatorial Game Theory](https://www.coursera.org/account/accomplishments/certificate/D5G9YL94L4LP)
+* Saint Petersburg State University
+  * [Mathematical Game Theory](https://www.coursera.org/account/accomplishments/certificate/UN7JQKL5Z2CP)
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
