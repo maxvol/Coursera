@@ -33,8 +33,6 @@ Coursera
     * [Getting started with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/XXUTHGC6538B)
     * [Customising your models with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/A6WA8Z6F77RX)
     * [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/L5M9C9BLY85N)
-* Rice University
-  * [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/account/accomplishments/certificate/JBBTFDHTXFT7)
 * University of Pennsylvania
   * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/account/accomplishments/certificate/6TN35XH65KSB)
 * Columbia University
@@ -54,4 +52,6 @@ Coursera
 * Digital Marketing Institute
   * Digital Marketing Strategy and Planning Specialization
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
+* Rice University
+  * [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/account/accomplishments/certificate/JBBTFDHTXFT7)
 
