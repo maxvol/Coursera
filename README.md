@@ -36,6 +36,7 @@ Coursera
 * University of Pennsylvania
   * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/account/accomplishments/certificate/6TN35XH65KSB)
 * Columbia University
+  * [Causal Inference](https://www.coursera.org/account/accomplishments/certificate/EL6845C3HDA8)
   * [Causal Inference 2](https://www.coursera.org/account/accomplishments/certificate/BQPD4LKC9ZP3)
 * Google Cloud
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
