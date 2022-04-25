@@ -39,6 +39,7 @@ Coursera
   * [Causal Inference](https://www.coursera.org/account/accomplishments/certificate/EL6845C3HDA8)
   * [Causal Inference 2](https://www.coursera.org/account/accomplishments/certificate/BQPD4LKC9ZP3)
 * Google Cloud
+  * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](Creating Custom Interactive Dashboards with Bokeh and BigQuery)
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)  
 * The University of Tokyo
