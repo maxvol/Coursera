@@ -56,4 +56,5 @@ Coursera
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
 * Rice University
   * [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/account/accomplishments/certificate/JBBTFDHTXFT7)
-
+* Deep Teaching Solutions
+  * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
