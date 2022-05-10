@@ -59,3 +59,7 @@ Coursera
   * [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/account/accomplishments/certificate/JBBTFDHTXFT7)
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
+
+* SoFi
+  * The Fundamentals of Personal Finance Specialization
+    * [Fundamentals of Investing](https://www.coursera.org/account/accomplishments/certificate/4BP2FSP2XR2T)
