@@ -62,5 +62,8 @@ Coursera
 
 * SoFi
   * The Fundamentals of Personal Finance Specialization
-    * [Risk Management in Personal Finance](https://www.coursera.org/account/accomplishments/certificate/GDRD4KD9HXR3)
+    * []()
+    * []()
+    * []()
     * [Fundamentals of Investing](https://www.coursera.org/account/accomplishments/certificate/4BP2FSP2XR2T)
+    * [Risk Management in Personal Finance](https://www.coursera.org/account/accomplishments/certificate/GDRD4KD9HXR3)
