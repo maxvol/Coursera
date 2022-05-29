@@ -57,13 +57,13 @@ Coursera
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
 * Rice University
   * [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/account/accomplishments/certificate/JBBTFDHTXFT7)
+* University of Minnesota
+  * Analytics for Decision Making Specialization
+    * [Optimization for Decision Making](https://www.coursera.org/account/accomplishments/certificate/7J5V44G8QYKC)
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
-
 * SoFi
   * The Fundamentals of Personal Finance Specialization
-    * []()
-    * []()
     * [Managing Debt](https://www.coursera.org/account/accomplishments/certificate/2SLBPAQKAWVM)
     * [Fundamentals of Investing](https://www.coursera.org/account/accomplishments/certificate/4BP2FSP2XR2T)
     * [Risk Management in Personal Finance](https://www.coursera.org/account/accomplishments/certificate/GDRD4KD9HXR3)
