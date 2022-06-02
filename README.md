@@ -35,6 +35,7 @@ Coursera
     * [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/L5M9C9BLY85N)
 * University of Pennsylvania
   * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/account/accomplishments/certificate/6TN35XH65KSB)
+  * [Gamification](https://www.coursera.org/account/accomplishments/certificate/2FG4QGSWX62X)
 * Columbia University
   * [Causal Inference](https://www.coursera.org/account/accomplishments/certificate/EL6845C3HDA8)
   * [Causal Inference 2](https://www.coursera.org/account/accomplishments/certificate/BQPD4LKC9ZP3)
