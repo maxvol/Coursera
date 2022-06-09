@@ -63,6 +63,8 @@ Coursera
     * [Optimization for Decision Making](https://www.coursera.org/account/accomplishments/certificate/7J5V44G8QYKC)
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
+* Duke University
+  * [Financial Risk Management with R](https://www.coursera.org/account/accomplishments/certificate/RUGZD7F8MLP3)
 * SoFi
   * The Fundamentals of Personal Finance Specialization
     * [Managing Debt](https://www.coursera.org/account/accomplishments/certificate/2SLBPAQKAWVM)
