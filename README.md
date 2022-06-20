@@ -39,6 +39,12 @@ Coursera
 * Columbia University
   * [Causal Inference](https://www.coursera.org/account/accomplishments/certificate/EL6845C3HDA8)
   * [Causal Inference 2](https://www.coursera.org/account/accomplishments/certificate/BQPD4LKC9ZP3)
+* The University of Tokyo
+  * [Welcome to Game Theory](https://www.coursera.org/account/accomplishments/certificate/4F89NWYRLX7M)
+* Saint Petersburg State University
+  * [Mathematical Game Theory](https://www.coursera.org/account/accomplishments/certificate/UN7JQKL5Z2CP)
+* Georgia Institute of Technology
+  * [Games without Chance: Combinatorial Game Theory](https://www.coursera.org/account/accomplishments/certificate/D5G9YL94L4LP)
 * Google Cloud
   * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://www.coursera.org/account/accomplishments/certificate/UWQ4N6EA7QA3)
   * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
@@ -46,12 +52,6 @@ Coursera
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
   * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
-* The University of Tokyo
-  * [Welcome to Game Theory](https://www.coursera.org/account/accomplishments/certificate/4F89NWYRLX7M)
-* Saint Petersburg State University
-  * [Mathematical Game Theory](https://www.coursera.org/account/accomplishments/certificate/UN7JQKL5Z2CP)
-* Georgia Institute of Technology
-  * [Games without Chance: Combinatorial Game Theory](https://www.coursera.org/account/accomplishments/certificate/D5G9YL94L4LP)
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
