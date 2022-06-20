@@ -45,6 +45,7 @@ Coursera
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
   * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
+  * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
 * The University of Tokyo
   * [Welcome to Game Theory](https://www.coursera.org/account/accomplishments/certificate/4F89NWYRLX7M)
 * Saint Petersburg State University
