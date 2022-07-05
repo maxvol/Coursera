@@ -68,6 +68,7 @@ Coursera
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
 * Duke University
   * Entrepreneurial Finance: Strategy and Innovation Specialization
+    * [Blockchain Business Models](https://www.coursera.org/account/accomplishments/certificate/W9Y69UQR4HYJ)
     * [Financial Risk Management with R](https://www.coursera.org/account/accomplishments/certificate/RUGZD7F8MLP3)
 * SoFi
   * The Fundamentals of Personal Finance Specialization
