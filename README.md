@@ -48,10 +48,10 @@ Coursera
 * Google Cloud
   * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://www.coursera.org/account/accomplishments/certificate/UWQ4N6EA7QA3)
   * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
-  * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
-    * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
   * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
+  * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
+    * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
   * Architecting with Google Kubernetes Engine Specialization
     * [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/account/accomplishments/certificate/VYJ9ESCX543K)
 * Coursera
