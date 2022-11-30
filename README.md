@@ -55,7 +55,7 @@ Coursera
   * Architecting with Google Kubernetes Engine Specialization
     * []()
     * [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/account/accomplishments/certificate/VYJ9ESCX543K)
-    * []()
+    * [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/account/accomplishments/certificate/SJ36DGAQ3NB8)
     * [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/account/accomplishments/certificate/HXM7X7UU457F)
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
