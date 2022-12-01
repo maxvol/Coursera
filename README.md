@@ -52,8 +52,8 @@ Coursera
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
-  * Architecting with Google Kubernetes Engine Specialization
-    * [Google Cloud Fundamentals: Core Infrastructure]()
+  * [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MUHP8PRHF34D)
+    * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/account/accomplishments/certificate/VYJ9ESCX543K)
     * [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/account/accomplishments/certificate/SJ36DGAQ3NB8)
     * [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/account/accomplishments/certificate/HXM7X7UU457F)
