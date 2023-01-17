@@ -52,11 +52,14 @@ Coursera
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
   * Networking in Google Cloud Specialization
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
-    *   
+  * Preparing for Google Cloud Certification: Cloud Developer Professional Certificate
+    * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
   * Preparing for Google Cloud Certification: Cloud Network Engineer Professional Certificate
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
-    * 
   * Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate
+    * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
+  * Preparing for Google Cloud Certification: Cloud Architect Professional Certificate
+    * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
   * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
