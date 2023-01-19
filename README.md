@@ -51,6 +51,7 @@ Coursera
   * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
   * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
+  * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
   * Networking in Google Cloud Specialization
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/account/accomplishments/certificate/TNQUBZTUDA64)
