@@ -50,6 +50,7 @@ Coursera
   * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
   * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
+  * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
   * Networking in Google Cloud Specialization
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/account/accomplishments/certificate/TNQUBZTUDA64)
