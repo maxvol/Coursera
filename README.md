@@ -52,15 +52,17 @@ Coursera
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
   * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
   * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
-  * Networking in Google Cloud Specialization
+  * [Networking in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R4GMK3BKKBQT)
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/account/accomplishments/certificate/TNQUBZTUDA64)
+    * [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/account/accomplishments/certificate/FPJG78BX7AUQ)
   * Preparing for Google Cloud Certification: Cloud Developer Professional Certificate
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
   * Preparing for Google Cloud Certification: Cloud Network Engineer Professional Certificate
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/account/accomplishments/certificate/TNQUBZTUDA64)
+    * [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/account/accomplishments/certificate/FPJG78BX7AUQ)
   * Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
   * Preparing for Google Cloud Certification: Cloud Architect Professional Certificate
