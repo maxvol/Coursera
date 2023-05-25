@@ -90,6 +90,8 @@ Coursera
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
 * Duke University
+  * MLOps | Machine Learning Operations Specialization
+    * [MLOps Tools: MLflow and Hugging Face]()
   * Entrepreneurial Finance: Strategy and Innovation Specialization
     * [Blockchain Business Models](https://www.coursera.org/account/accomplishments/certificate/W9Y69UQR4HYJ)
     * [Financial Risk Management with R](https://www.coursera.org/account/accomplishments/certificate/RUGZD7F8MLP3)
