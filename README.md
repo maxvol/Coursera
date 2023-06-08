@@ -59,6 +59,10 @@ Coursera
   * Preparing for Google Cloud Certification: Cloud Developer Professional Certificate
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
+    * 
+    * 
+    * 
+    * [Application Development with Cloud Run]
   * Preparing for Google Cloud Certification: Cloud Network Engineer Professional Certificate
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/account/accomplishments/certificate/TNQUBZTUDA64)
