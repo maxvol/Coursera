@@ -49,6 +49,7 @@ Coursera
   * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://www.coursera.org/account/accomplishments/certificate/UWQ4N6EA7QA3)
   * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
   * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
+  * [Modular Load Balancing with Terraform - Regional Load Balancer](https://www.coursera.org/account/accomplishments/certificate/L9Y32ZCM9FHC)
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
   * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
   * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
