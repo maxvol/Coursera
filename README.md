@@ -52,6 +52,7 @@ Coursera
   * [Deploy Your Website on Cloud Run](https://www.coursera.org/account/accomplishments/certificate/WXA9JKGH4RSW)
   * [Managing Terraform State](https://www.coursera.org/account/accomplishments/certificate/HA5NGWRV6N6A)
   * [Modular Load Balancing with Terraform - Regional Load Balancer](https://www.coursera.org/account/accomplishments/certificate/L9Y32ZCM9FHC)
+  * [Developing a REST API with Go and Cloud Run](https://www.coursera.org/account/accomplishments/certificate/G6WVCJTLTF4N)
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
   * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
   * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
