@@ -56,7 +56,7 @@ Coursera
   * [Developing a REST API with Go and Cloud Run](https://www.coursera.org/account/accomplishments/certificate/G6WVCJTLTF4N)
   * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
   * [User Authentication: Identity-Aware Proxy](https://www.coursera.org/account/accomplishments/certificate/UNZJZ9A5N8YF)
-  * [Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust]()
+  * [Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust](https://www.coursera.org/account/accomplishments/certificate/TGKWJYD8DMVX)
   * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
   * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
   * [Networking in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R4GMK3BKKBQT)
