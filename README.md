@@ -48,6 +48,7 @@ Coursera
 * Google Cloud
   * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://www.coursera.org/account/accomplishments/certificate/UWQ4N6EA7QA3)
   * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
+  * [Working with Artifact Registry](https://www.coursera.org/account/accomplishments/certificate/WZZZL7ZTEBRN)
   * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
   * [Deploy Your Website on Cloud Run](https://www.coursera.org/account/accomplishments/certificate/WXA9JKGH4RSW)
   * [Managing Terraform State](https://www.coursera.org/account/accomplishments/certificate/HA5NGWRV6N6A)
