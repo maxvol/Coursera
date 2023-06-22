@@ -47,7 +47,7 @@ Coursera
   * [Games without Chance: Combinatorial Game Theory](https://www.coursera.org/account/accomplishments/certificate/D5G9YL94L4LP)
 * Google Cloud
   * Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
-    * Machine Learning Operations (MLOps): Getting Started 
+    * [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/account/accomplishments/certificate/73BUWWE928A2)
   * [Networking in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R4GMK3BKKBQT)
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/account/accomplishments/certificate/TNQUBZTUDA64)
