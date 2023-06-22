@@ -45,6 +45,17 @@ Coursera
   * [Mathematical Game Theory](https://www.coursera.org/account/accomplishments/certificate/UN7JQKL5Z2CP)
 * Georgia Institute of Technology
   * [Games without Chance: Combinatorial Game Theory](https://www.coursera.org/account/accomplishments/certificate/D5G9YL94L4LP)
+* Rice University
+  * [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/account/accomplishments/certificate/JBBTFDHTXFT7)
+* University of Minnesota
+  * Analytics for Decision Making Specialization
+    * [Optimization for Decision Making](https://www.coursera.org/account/accomplishments/certificate/7J5V44G8QYKC)
+* Duke University
+  * MLOps | Machine Learning Operations Specialization
+    * [MLOps Tools: MLflow and Hugging Face](https://www.coursera.org/account/accomplishments/certificate/M435CDR2KSG2)
+  * Entrepreneurial Finance: Strategy and Innovation Specialization
+    * [Blockchain Business Models](https://www.coursera.org/account/accomplishments/certificate/W9Y69UQR4HYJ)
+    * [Financial Risk Management with R](https://www.coursera.org/account/accomplishments/certificate/RUGZD7F8MLP3)
 * Google Cloud
   * Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
     * [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/account/accomplishments/certificate/73BUWWE928A2)
@@ -96,19 +107,8 @@ Coursera
 * Digital Marketing Institute
   * Digital Marketing Strategy and Planning Specialization
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
-* Rice University
-  * [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/account/accomplishments/certificate/JBBTFDHTXFT7)
-* University of Minnesota
-  * Analytics for Decision Making Specialization
-    * [Optimization for Decision Making](https://www.coursera.org/account/accomplishments/certificate/7J5V44G8QYKC)
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
-* Duke University
-  * MLOps | Machine Learning Operations Specialization
-    * [MLOps Tools: MLflow and Hugging Face](https://www.coursera.org/account/accomplishments/certificate/M435CDR2KSG2)
-  * Entrepreneurial Finance: Strategy and Innovation Specialization
-    * [Blockchain Business Models](https://www.coursera.org/account/accomplishments/certificate/W9Y69UQR4HYJ)
-    * [Financial Risk Management with R](https://www.coursera.org/account/accomplishments/certificate/RUGZD7F8MLP3)
 * SoFi
   * The Fundamentals of Personal Finance Specialization
     * [Managing Debt](https://www.coursera.org/account/accomplishments/certificate/2SLBPAQKAWVM)
