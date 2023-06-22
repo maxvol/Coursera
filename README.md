@@ -46,22 +46,6 @@ Coursera
 * Georgia Institute of Technology
   * [Games without Chance: Combinatorial Game Theory](https://www.coursera.org/account/accomplishments/certificate/D5G9YL94L4LP)
 * Google Cloud
-  * Projects
-    * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://www.coursera.org/account/accomplishments/certificate/UWQ4N6EA7QA3)
-    * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
-    * [Working with Artifact Registry](https://www.coursera.org/account/accomplishments/certificate/WZZZL7ZTEBRN)
-    * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
-    * [Deploy Your Website on Cloud Run](https://www.coursera.org/account/accomplishments/certificate/WXA9JKGH4RSW)
-    * [Managing Terraform State](https://www.coursera.org/account/accomplishments/certificate/HA5NGWRV6N6A)
-    * [Modular Load Balancing with Terraform - Regional Load Balancer](https://www.coursera.org/account/accomplishments/certificate/L9Y32ZCM9FHC)
-    * [Set Up Network and HTTP Load Balancers](https://www.coursera.org/account/accomplishments/certificate/E2QSY9REAGHX)
-    * [Developing a REST API with Go and Cloud Run](https://www.coursera.org/account/accomplishments/certificate/G6WVCJTLTF4N)
-    * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
-    * [User Authentication: Identity-Aware Proxy](https://www.coursera.org/account/accomplishments/certificate/UNZJZ9A5N8YF)
-    * [Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust](https://www.coursera.org/account/accomplishments/certificate/TGKWJYD8DMVX)
-    * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
-    * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
-    * [Vertex AI: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/9GDWL2TL6HDV) 
   * Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
     * Machine Learning Operations (MLOps): Getting Started 
   * [Networking in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R4GMK3BKKBQT)
@@ -88,6 +72,22 @@ Coursera
     * [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/account/accomplishments/certificate/VYJ9ESCX543K)
     * [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/account/accomplishments/certificate/SJ36DGAQ3NB8)
     * [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/account/accomplishments/certificate/HXM7X7UU457F)
+  * Projects
+    * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://www.coursera.org/account/accomplishments/certificate/UWQ4N6EA7QA3)
+    * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
+    * [Working with Artifact Registry](https://www.coursera.org/account/accomplishments/certificate/WZZZL7ZTEBRN)
+    * [Hello Cloud Run](https://www.coursera.org/account/accomplishments/certificate/XXB2NSMJ3VPN)
+    * [Deploy Your Website on Cloud Run](https://www.coursera.org/account/accomplishments/certificate/WXA9JKGH4RSW)
+    * [Managing Terraform State](https://www.coursera.org/account/accomplishments/certificate/HA5NGWRV6N6A)
+    * [Modular Load Balancing with Terraform - Regional Load Balancer](https://www.coursera.org/account/accomplishments/certificate/L9Y32ZCM9FHC)
+    * [Set Up Network and HTTP Load Balancers](https://www.coursera.org/account/accomplishments/certificate/E2QSY9REAGHX)
+    * [Developing a REST API with Go and Cloud Run](https://www.coursera.org/account/accomplishments/certificate/G6WVCJTLTF4N)
+    * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
+    * [User Authentication: Identity-Aware Proxy](https://www.coursera.org/account/accomplishments/certificate/UNZJZ9A5N8YF)
+    * [Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust](https://www.coursera.org/account/accomplishments/certificate/TGKWJYD8DMVX)
+    * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
+    * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
+    * [Vertex AI: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/9GDWL2TL6HDV) 
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
