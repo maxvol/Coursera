@@ -59,6 +59,7 @@ Coursera
 * Google Cloud
   * Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
     * [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/account/accomplishments/certificate/73BUWWE928A2)
+    * Production Machine Learning Systems
     * ML Pipelines on Google Cloud
   * [Networking in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R4GMK3BKKBQT)
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
