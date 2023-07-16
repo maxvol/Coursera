@@ -86,6 +86,7 @@ Coursera
     * [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/account/accomplishments/certificate/SJ36DGAQ3NB8)
     * [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/account/accomplishments/certificate/HXM7X7UU457F)
   * Projects
+    * [Cloud Scheduler: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/MBCZP6QWSSTQ)
     * [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://www.coursera.org/account/accomplishments/certificate/UWQ4N6EA7QA3)
     * [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.coursera.org/account/accomplishments/certificate/JNAHGJRUB8EN)
     * [Working with Artifact Registry](https://www.coursera.org/account/accomplishments/certificate/WZZZL7ZTEBRN)
