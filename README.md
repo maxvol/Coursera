@@ -57,6 +57,7 @@ Coursera
     * [Blockchain Business Models](https://www.coursera.org/account/accomplishments/certificate/W9Y69UQR4HYJ)
     * [Financial Risk Management with R](https://www.coursera.org/account/accomplishments/certificate/RUGZD7F8MLP3)
 * Google Cloud
+  * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
   * Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
     * [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/account/accomplishments/certificate/73BUWWE928A2)
     * [Production Machine Learning Systems](https://www.coursera.org/account/accomplishments/certificate/7TUGT3B3ER6V)
