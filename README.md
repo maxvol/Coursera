@@ -101,6 +101,7 @@ Coursera
     * [Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust](https://www.coursera.org/account/accomplishments/certificate/TGKWJYD8DMVX)
     * [Building a High-throughput VPN](https://www.coursera.org/account/accomplishments/certificate/ZJS4PWSNFF2S)
     * [Setting Up Cost Control with Quota](https://www.coursera.org/account/accomplishments/certificate/WQCQMQG23NC6)
+    * [Get Started with Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/8Z67MH5XY75V)
   * Qwik Start
     * [Memorystore: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/H6NU4SQWETEK)
     * [Cloud Scheduler: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/MBCZP6QWSSTQ)
