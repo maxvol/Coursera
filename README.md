@@ -51,6 +51,7 @@ Coursera
   * Analytics for Decision Making Specialization
     * [Optimization for Decision Making](https://www.coursera.org/account/accomplishments/certificate/7J5V44G8QYKC)
 * Duke University
+  * Virtualization, Docker, and Kubernetes for Data Engineering
   * MLOps | Machine Learning Operations Specialization
     * [MLOps Tools: MLflow and Hugging Face](https://www.coursera.org/account/accomplishments/certificate/M435CDR2KSG2)
   * Entrepreneurial Finance: Strategy and Innovation Specialization
