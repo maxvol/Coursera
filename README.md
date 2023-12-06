@@ -50,6 +50,10 @@ Coursera
 * University of Minnesota
   * Analytics for Decision Making Specialization
     * [Optimization for Decision Making](https://www.coursera.org/account/accomplishments/certificate/7J5V44G8QYKC)
+* University of Colorado Boulder
+  * Foundations of Data Structures and Algorithms Specialization
+    * Dynamic Programming, Greedy Algorithms
+    * Approximation Algorithms and Linear Programming
 * Duke University
   * Virtualization, Docker, and Kubernetes for Data Engineering
   * MLOps | Machine Learning Operations Specialization
