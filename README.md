@@ -123,7 +123,7 @@ Coursera
 * Digital Marketing Institute
   * Digital Marketing Strategy and Planning Specialization
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
-* Edureka
+* Edureka!
   * [Introduction to Midjourney](https://www.coursera.org/account/accomplishments/certificate/J8T4RA354NHN)
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
