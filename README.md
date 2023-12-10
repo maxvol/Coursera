@@ -119,6 +119,7 @@ Coursera
   * [Stock Valuation with Comparable Companies Analysis](https://www.coursera.org/account/accomplishments/certificate/W8WFVACNGVZ3)
   * [Rust for Beginners: Building Target Proximity Game](https://www.coursera.org/account/accomplishments/certificate/TW5CDGA6HKB6)
   * [Google Bard for Beginners: Text Generation with Prompts](https://www.coursera.org/account/accomplishments/certificate/P44KWLKXBTTC)
+  * [Midjourney for Beginners: Craft an Exquisite Piece of AI Art](https://www.coursera.org/account/accomplishments/certificate/HEZJS8EHQZKN)
 * Digital Marketing Institute
   * Digital Marketing Strategy and Planning Specialization
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
