@@ -62,6 +62,7 @@ Coursera
     * [Blockchain Business Models](https://www.coursera.org/account/accomplishments/certificate/W9Y69UQR4HYJ)
     * [Financial Risk Management with R](https://www.coursera.org/account/accomplishments/certificate/RUGZD7F8MLP3)
   * [Rust Fundamentals](https://www.coursera.org/account/accomplishments/certificate/8J3Q8VWFRDU2)
+  * [Data Engineering with Rust](https://www.coursera.org/account/accomplishments/certificate/CZK4VJECYTEY)
 * Google Cloud
   * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
   * [Machine Learning Operations (MLOps) with Vertex AI: Manage Features](https://www.coursera.org/account/accomplishments/certificate/T4KVY4ZJGZHQ)
