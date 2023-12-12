@@ -113,6 +113,9 @@ Coursera
     * [Cloud Scheduler: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/MBCZP6QWSSTQ)
     * [Vertex Pipelines: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/NLP4U2B9DWDF)
     * [Vertex AI: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/9GDWL2TL6HDV)
+* Microsoft
+  * Microsoft Power BI Data Analyst Professional Certificate
+    * [Data Modeling in Power BI](https://www.coursera.org/account/accomplishments/certificate/QWTQHUKWGVGH)
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
