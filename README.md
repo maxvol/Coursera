@@ -55,7 +55,7 @@ Coursera
     * Dynamic Programming, Greedy Algorithms
     * Approximation Algorithms and Linear Programming
 * Duke University
-  * Virtualization, Docker, and Kubernetes for Data Engineering
+  * [Virtualization, Docker, and Kubernetes for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/9558FML5T9TH)
   * MLOps | Machine Learning Operations Specialization
     * [MLOps Tools: MLflow and Hugging Face](https://www.coursera.org/account/accomplishments/certificate/M435CDR2KSG2)
   * Entrepreneurial Finance: Strategy and Innovation Specialization
