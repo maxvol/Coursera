@@ -117,7 +117,7 @@ Coursera
     * [Vertex AI: Qwik Start](https://www.coursera.org/account/accomplishments/certificate/9GDWL2TL6HDV)
 * Microsoft
   * Microsoft Power BI Data Analyst Professional Certificate
-    * Extract, Transform and Load Data in Power BI
+    * [Extract, Transform and Load Data in Power BI](https://www.coursera.org/account/accomplishments/certificate/739TFWNKNWH6)
     * [Data Modeling in Power BI](https://www.coursera.org/account/accomplishments/certificate/QWTQHUKWGVGH)
     * [Data Analysis and Visualization with Power BI](https://www.coursera.org/account/accomplishments/certificate/QN5YL76V5FCM)
 * Coursera
