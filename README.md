@@ -119,7 +119,7 @@ Coursera
   * Microsoft Power BI Data Analyst Professional Certificate
     * Extract, Transform and Load Data in Power BI
     * [Data Modeling in Power BI](https://www.coursera.org/account/accomplishments/certificate/QWTQHUKWGVGH)
-    * Data Analysis and Visualization with Power BI
+    * [Data Analysis and Visualization with Power BI](https://www.coursera.org/account/accomplishments/certificate/QN5YL76V5FCM)
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
