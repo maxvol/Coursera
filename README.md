@@ -120,6 +120,7 @@ Coursera
     * [Extract, Transform and Load Data in Power BI](https://www.coursera.org/account/accomplishments/certificate/739TFWNKNWH6)
     * [Data Modeling in Power BI](https://www.coursera.org/account/accomplishments/certificate/QWTQHUKWGVGH)
     * [Data Analysis and Visualization with Power BI](https://www.coursera.org/account/accomplishments/certificate/QN5YL76V5FCM)
+    * Creative Designing in Power BI
 * Coursera
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
