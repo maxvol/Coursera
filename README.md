@@ -67,6 +67,7 @@ Coursera
 * Google Cloud
   * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
   * [Machine Learning Operations (MLOps) with Vertex AI: Manage Features](https://www.coursera.org/account/accomplishments/certificate/T4KVY4ZJGZHQ)
+  * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
   * [Developing Containerized Applications on Google Cloud](https://www.coursera.org/account/accomplishments/certificate/S9CTF4DRSUJL)
   * Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
     * [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/account/accomplishments/certificate/73BUWWE928A2)
@@ -90,7 +91,6 @@ Coursera
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
   * Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
     * [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/certificate/ZXAETGU2SEX6)
-  * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
   * [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MUHP8PRHF34D)
     * [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/YQXWTBUA6P42)
     * [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/account/accomplishments/certificate/VYJ9ESCX543K)
