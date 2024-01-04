@@ -66,9 +66,9 @@ Coursera
     * [Data Engineering with Rust](https://www.coursera.org/account/accomplishments/certificate/CZK4VJECYTEY)
 * Google Cloud
   * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
-  * [Machine Learning Operations (MLOps) with Vertex AI: Manage Features](https://www.coursera.org/account/accomplishments/certificate/T4KVY4ZJGZHQ)
   * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
   * [Developing Containerized Applications on Google Cloud](https://www.coursera.org/account/accomplishments/certificate/S9CTF4DRSUJL)
+  * [Machine Learning Operations (MLOps) with Vertex AI: Manage Features](https://www.coursera.org/account/accomplishments/certificate/T4KVY4ZJGZHQ)
   * Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
     * [Machine Learning Operations (MLOps): Getting Started](https://www.coursera.org/account/accomplishments/certificate/73BUWWE928A2)
     * [Production Machine Learning Systems](https://www.coursera.org/account/accomplishments/certificate/7TUGT3B3ER6V)
