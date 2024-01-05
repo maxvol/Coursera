@@ -33,6 +33,10 @@ Coursera
     * [Getting started with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/XXUTHGC6538B)
     * [Customising your models with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/A6WA8Z6F77RX)
     * [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/L5M9C9BLY85N)
+  * Creative Thinking Tools for Success and Leadership Specialization
+    * Introduction to Creative Thinking: Tools for Success
+    * Systematic Creative Thinking: Tools for Success
+    * Advanced Creative Thinking and AI: Tools for Success
 * University of Pennsylvania
   * [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/account/accomplishments/certificate/6TN35XH65KSB)
   * [Gamification](https://www.coursera.org/account/accomplishments/certificate/2FG4QGSWX62X)
