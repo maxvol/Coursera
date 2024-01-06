@@ -141,6 +141,11 @@ Coursera
   * [Introduction to Midjourney](https://www.coursera.org/account/accomplishments/certificate/J8T4RA354NHN)
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
+* Dartmouth College
+  * Libertarian Free Will Specialization
+    * The Basics of Libertarian Free Will
+    * Free Will and Neuroscience
+    * Neural Basis of Imagination, Free Will, and Morality
 * SoFi
   * The Fundamentals of Personal Finance Specialization
     * [Managing Debt](https://www.coursera.org/account/accomplishments/certificate/2SLBPAQKAWVM)
