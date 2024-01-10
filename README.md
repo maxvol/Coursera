@@ -144,7 +144,7 @@ Coursera
 * Dartmouth College
   * Libertarian Free Will Specialization
     * The Basics of Libertarian Free Will
-    * Free Will and Neuroscience
+    * [Free Will and Neuroscience](https://www.coursera.org/account/accomplishments/certificate/DC4C7AKUA27E)
     * Neural Basis of Imagination, Free Will, and Morality
 * SoFi
   * The Fundamentals of Personal Finance Specialization
