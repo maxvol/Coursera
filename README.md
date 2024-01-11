@@ -146,7 +146,7 @@ Coursera
   * Libertarian Free Will Specialization
     * The Basics of Libertarian Free Will
     * [Free Will and Neuroscience](https://www.coursera.org/account/accomplishments/certificate/DC4C7AKUA27E)
-    * Neural Basis of Imagination, Free Will, and Morality
+    * [Neural Basis of Imagination, Free Will, and Morality](https://www.coursera.org/account/accomplishments/certificate/D8ELL3PF3XS2)
 * SoFi
   * The Fundamentals of Personal Finance Specialization
     * [Managing Debt](https://www.coursera.org/account/accomplishments/certificate/2SLBPAQKAWVM)
