@@ -58,7 +58,7 @@ Coursera
   * Foundations of Data Structures and Algorithms Specialization
     * Dynamic Programming, Greedy Algorithms
     * Approximation Algorithms and Linear Programming
-  * The Neuroscience of Personal Excellence
+  * [The Neuroscience of Personal Excellence](https://www.coursera.org/account/accomplishments/certificate/CGDTRDGEH683)
 * Duke University
   * [Virtualization, Docker, and Kubernetes for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/9558FML5T9TH)
   * MLOps | Machine Learning Operations Specialization
