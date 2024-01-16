@@ -146,8 +146,8 @@ Coursera
 * Deep Teaching Solutions
   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/UQENHYDZ9VM2) 
 * Dartmouth College
-  * Libertarian Free Will Specialization
-    * The Basics of Libertarian Free Will
+  * [Libertarian Free Will Specialization](https://www.coursera.org/account/accomplishments/certificate/QEFTK7JAQCZ7)
+    * [The Basics of Libertarian Free Will](https://www.coursera.org/account/accomplishments/certificate/XTT59GU79E3C)
     * [Free Will and Neuroscience](https://www.coursera.org/account/accomplishments/certificate/DC4C7AKUA27E)
     * [Neural Basis of Imagination, Free Will, and Morality](https://www.coursera.org/account/accomplishments/certificate/D8ELL3PF3XS2)
 * SoFi
