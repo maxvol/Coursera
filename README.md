@@ -60,7 +60,7 @@ Coursera
     * Approximation Algorithms and Linear Programming
   * Neuroscience of Leadership: Leading with Your Brain Specialization
     * [The Neuroscience of Personal Excellence](https://www.coursera.org/account/accomplishments/certificate/CGDTRDGEH683)
-    * The Neuroscience of Leading High-Performance Teams
+    * [The Neuroscience of Leading High-Performance Teams](https://www.coursera.org/account/accomplishments/certificate/3ESDWF4HG7TC)
     * The Neuroscience of Leading Transformational Organizations
 * Duke University
   * [Virtualization, Docker, and Kubernetes for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/9558FML5T9TH)
