@@ -58,10 +58,10 @@ Coursera
   * Foundations of Data Structures and Algorithms Specialization
     * Dynamic Programming, Greedy Algorithms
     * Approximation Algorithms and Linear Programming
-  * Neuroscience of Leadership: Leading with Your Brain Specialization
+  * [Neuroscience of Leadership: Leading with Your Brain Specialization](https://www.coursera.org/account/accomplishments/certificate/YGK99HWSNPCR)
     * [The Neuroscience of Personal Excellence](https://www.coursera.org/account/accomplishments/certificate/CGDTRDGEH683)
     * [The Neuroscience of Leading High-Performance Teams](https://www.coursera.org/account/accomplishments/certificate/3ESDWF4HG7TC)
-    * The Neuroscience of Leading Transformational Organizations
+    * [The Neuroscience of Leading Transformational Organizations](https://www.coursera.org/account/accomplishments/certificate/BK9CS7VTJBSW)
 * Duke University
   * [Virtualization, Docker, and Kubernetes for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/9558FML5T9TH)
   * MLOps | Machine Learning Operations Specialization
