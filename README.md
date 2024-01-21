@@ -73,7 +73,10 @@ Coursera
     * [Rust Fundamentals](https://www.coursera.org/account/accomplishments/certificate/8J3Q8VWFRDU2)
     * [Data Engineering with Rust](https://www.coursera.org/account/accomplishments/certificate/CZK4VJECYTEY)
   * Introduction to Logic and Critical Thinking Specialization
-    * Think Again I: How to Understand Arguments 
+    * Think Again I: How to Understand Arguments
+    * Think Again II: How to Reason Deductively
+    * Think Again III: How to Reason Inductively
+    * Think Again IV: How to Avoid Fallacies
 * Google Cloud
   * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
   * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
