@@ -76,7 +76,7 @@ Coursera
     * Think Again I: How to Understand Arguments
     * Think Again II: How to Reason Deductively
     * Think Again III: How to Reason Inductively
-    * Think Again IV: How to Avoid Fallacies
+    * [Think Again IV: How to Avoid Fallacies](https://www.coursera.org/account/accomplishments/certificate/4YVL7L2733WA)
 * Google Cloud
   * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
   * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
