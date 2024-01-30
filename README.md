@@ -58,6 +58,10 @@ Coursera
   * Foundations of Data Structures and Algorithms Specialization
     * Dynamic Programming, Greedy Algorithms
     * Approximation Algorithms and Linear Programming
+  * Data Science for Marketers Specialization
+    * Customer Data Analytics for Marketers
+    * Regression Modeling for Marketers
+    * Machine Learning for Marketers
   * [Neuroscience of Leadership: Leading with Your Brain Specialization](https://www.coursera.org/account/accomplishments/certificate/YGK99HWSNPCR)
     * [The Neuroscience of Personal Excellence](https://www.coursera.org/account/accomplishments/certificate/CGDTRDGEH683)
     * [The Neuroscience of Leading High-Performance Teams](https://www.coursera.org/account/accomplishments/certificate/3ESDWF4HG7TC)
@@ -143,6 +147,13 @@ Coursera
   * [Google Bard for Beginners: Text Generation with Prompts](https://www.coursera.org/account/accomplishments/certificate/P44KWLKXBTTC)
   * [Midjourney for Beginners: Craft an Exquisite Piece of AI Art](https://www.coursera.org/account/accomplishments/certificate/HEZJS8EHQZKN)
   * [Marketing with Generative AI: Create Images & Videos](https://www.coursera.org/account/accomplishments/certificate/2MB4WJNUDT8G)
+* O.P. Jindal Global University
+  * Machine Learning for Marketing Specialization
+    * Supervised Learning and Its Applications in Marketing
+    * Unsupervised Learning and Its Applications in Marketing
+    * Introduction to Decision Science for Marketing
+    * Text Mining for Marketing
+    * Digital Marketing Analytics
 * Digital Marketing Institute
   * Digital Marketing Strategy and Planning Specialization
     * [Digital Channel Planning and E-Commerce Strategy](https://www.coursera.org/account/accomplishments/certificate/E2XCFL44Y778)
