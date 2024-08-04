@@ -81,6 +81,15 @@ Coursera
     * Think Again II: How to Reason Deductively
     * Think Again III: How to Reason Inductively
     * [Think Again IV: How to Avoid Fallacies](https://www.coursera.org/account/accomplishments/certificate/4YVL7L2733WA)
+* Google
+  * Google Digital Marketing & E-commerce Professional Certificate
+    * Foundations of Digital Marketing and E-commerce
+    * Attract and Engage Customers with Digital Marketing
+    * From Likes to Leads: Interact with Customers Online
+    * Think Outside the Inbox: Email Marketing
+    * Assess for Success: Marketing Analytics and Measurement
+    * Make the Sale: Build, Launch, and Manage E-commerce Stores
+    * Satisfaction Guaranteed: Develop Customer Loyalty Online
 * Google Cloud
   * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
   * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
