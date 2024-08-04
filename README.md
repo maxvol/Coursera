@@ -83,7 +83,7 @@ Coursera
     * [Think Again IV: How to Avoid Fallacies](https://www.coursera.org/account/accomplishments/certificate/4YVL7L2733WA)
 * Google
   * Google Digital Marketing & E-commerce Professional Certificate
-    * Foundations of Digital Marketing and E-commerce
+    * [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/AJ4BF8TQHWSG)
     * Attract and Engage Customers with Digital Marketing
     * From Likes to Leads: Interact with Customers Online
     * Think Outside the Inbox: Email Marketing
