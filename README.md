@@ -157,6 +157,7 @@ Coursera
   * [Midjourney for Beginners: Craft an Exquisite Piece of AI Art](https://www.coursera.org/account/accomplishments/certificate/HEZJS8EHQZKN)
   * [Marketing with Generative AI: Create Images & Videos](https://www.coursera.org/account/accomplishments/certificate/2MB4WJNUDT8G)
   * [Multimodal Retrieval Augmented Generation (RAG) using the Vertex AI Gemini API](https://www.coursera.org/account/accomplishments/certificate/RQP6U4CPU0IO)
+  * [Build an LLM and RAG-based Chat Application using AlloyDB and LangChain](https://www.coursera.org/account/accomplishments/certificate/O9JUBGFFL4G6)
 * O.P. Jindal Global University
   * Machine Learning for Marketing Specialization
     * Supervised Learning and Its Applications in Marketing
