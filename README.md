@@ -27,6 +27,9 @@ Coursera
   * Bayesian Statistics Specialization
     * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/account/accomplishments/certificate/G85UU35YJQSK)
     * [Bayesian Statistics: Techniques and Models](https://www.coursera.org/account/accomplishments/certificate/ANSRBJXY7JWQ)
+    * Bayesian Statistics: Mixture Models
+    * Bayesian Statistics: Time Series Analysis
+    * Bayesian Statistics: Capstone Project
 * The State University of New York
   * [Practical Time Series Analysis](https://www.coursera.org/account/accomplishments/certificate/WGDS3HUXKKL9)
 * Imperial College London  
