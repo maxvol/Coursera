@@ -24,8 +24,9 @@ Coursera
   * [Practical Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/L62MSJNTL4FG)
   * [Bayesian Methods for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/5VHL33KBL5WM)
 * University of California, Santa Cruz
-  * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/account/accomplishments/certificate/G85UU35YJQSK)
-  * [Bayesian Statistics: Techniques and Models](https://www.coursera.org/account/accomplishments/certificate/ANSRBJXY7JWQ)
+  * Bayesian Statistics Specialization
+    * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/account/accomplishments/certificate/G85UU35YJQSK)
+    * [Bayesian Statistics: Techniques and Models](https://www.coursera.org/account/accomplishments/certificate/ANSRBJXY7JWQ)
 * The State University of New York
   * [Practical Time Series Analysis](https://www.coursera.org/account/accomplishments/certificate/WGDS3HUXKKL9)
 * Imperial College London  
