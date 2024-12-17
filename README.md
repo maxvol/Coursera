@@ -152,7 +152,7 @@ Coursera
     * [Data Modeling in Power BI](https://www.coursera.org/account/accomplishments/certificate/QWTQHUKWGVGH)
     * [Data Analysis and Visualization with Power BI](https://www.coursera.org/account/accomplishments/certificate/QN5YL76V5FCM)
     * [Creative Designing in Power BI](https://www.coursera.org/account/accomplishments/certificate/SSHT43XZ6D6W)
-* Coursera
+* Coursera Project Network
   * [Game-Theoretic Solution Concept with Spreadsheets](https://www.coursera.org/account/accomplishments/certificate/Z3YUN2PUFK57)
   * [Game Theory with Python](https://www.coursera.org/account/accomplishments/certificate/FTZ849DDSGRC)
   * [Stock Valuation with Comparable Companies Analysis](https://www.coursera.org/account/accomplishments/certificate/W8WFVACNGVZ3)
@@ -162,6 +162,7 @@ Coursera
   * [Marketing with Generative AI: Create Images & Videos](https://www.coursera.org/account/accomplishments/certificate/2MB4WJNUDT8G)
   * [Multimodal Retrieval Augmented Generation (RAG) using the Vertex AI Gemini API](https://www.coursera.org/account/accomplishments/certificate/RQP6U4CPU0IO)
   * [Build an LLM and RAG-based Chat Application using AlloyDB and LangChain](https://www.coursera.org/account/accomplishments/certificate/O9JUBGFFL4G6)
+  * [Agile Projects: Developing Tasks with Taiga](https://www.coursera.org/account/accomplishments/certificate/EWFUUHRIRYT7)
 * O.P. Jindal Global University
   * Machine Learning for Marketing Specialization
     * Supervised Learning and Its Applications in Marketing
