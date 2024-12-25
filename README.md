@@ -94,6 +94,7 @@ Coursera
     * Assess for Success: Marketing Analytics and Measurement
     * Make the Sale: Build, Launch, and Manage E-commerce Stores
     * Satisfaction Guaranteed: Develop Customer Loyalty Online
+* [Google Prompting Essentials](https://www.coursera.org/account/accomplishments/certificate/T4K66I21MRLL)
 * Google Cloud
   * [Introduction to Generative AI Studio](https://www.coursera.org/account/accomplishments/certificate/GLJ9UCXWJTJX)
   * [Getting Started with Terraform for Google Cloud](https://www.coursera.org/account/accomplishments/certificate/SRJPG6LR42XU)
