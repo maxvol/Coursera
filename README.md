@@ -47,6 +47,7 @@ Coursera
 * Columbia University
   * [Causal Inference](https://www.coursera.org/account/accomplishments/certificate/EL6845C3HDA8)
   * [Causal Inference 2](https://www.coursera.org/account/accomplishments/certificate/BQPD4LKC9ZP3)
+  * [Decision Making and Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/VN1FHDN6VVNR)
 * The University of Tokyo
   * [Welcome to Game Theory](https://www.coursera.org/account/accomplishments/certificate/4F89NWYRLX7M)
 * Saint Petersburg State University
