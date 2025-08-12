@@ -191,4 +191,4 @@ Coursera
     * [Risk Management in Personal Finance](https://www.coursera.org/account/accomplishments/certificate/GDRD4KD9HXR3)  
 * Berklee
   * The Singer Songwriter Specialization
-    * Introduction to Ableton Live
+    * [Introduction to Ableton Live](https://www.coursera.org/account/accomplishments/certificate/W9DNHPHUMHN8)
