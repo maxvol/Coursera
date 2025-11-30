@@ -193,4 +193,4 @@ Coursera
   * The Singer Songwriter Specialization
     * [Introduction to Ableton Live](https://www.coursera.org/account/accomplishments/certificate/W9DNHPHUMHN8)
   * Writing and Producing Music in Your Home Studio Specialization
-    * [The Art of Vocal Production]()
+    * [The Art of Vocal Production](https://www.coursera.org/account/accomplishments/certificate/HKZTTYH75216)
